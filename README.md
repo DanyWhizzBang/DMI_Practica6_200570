@@ -10,10 +10,10 @@
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
 ## Descripción
-Creación de primera app con widgets stateless
+Creación de primera app con widgets stateful
 ## Características
 - Título de la aplicación: Practica 6: 200570
-- aplicación con widgets stateless
+- aplicación con widgets stateful
 
 ## Instalación
 Para ejecutar esta aplicación, sigue estos pasos:
